@@ -13,3 +13,4 @@ git commit -m "any comment here in quotes"
 git remote add origin https://github.com/anthonyjcthomas/AlgoTrading 
 git push -u origin master
 Done! This will push/update the repository with everything in that File Explorer
+If this is here that would be lit
