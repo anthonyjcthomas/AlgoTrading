@@ -32,4 +32,7 @@ If you dont have it already download git [here](https://www.git-scm.com/download
 This will push/update the repository with everything in that File Explorer, after you do this the first time you can skip the 5th command line.
 
 [Link](https://www.youtube.com/watch?v=xLbmcMVtfKE) to the video if you need it.
+## Doing the opposite/ Updating your local files 
+```git pull```
+* Pulls everything from the repository and lets you compare your local version vs the remote and download what you do/don't want, most likely in this case you would want everything as you'd just be updating your local version from what someone else added.
 ___
