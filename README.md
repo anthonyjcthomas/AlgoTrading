@@ -1,7 +1,7 @@
 # Contents
 ___
 
-### Updating Repository through cmdline
+### Updating Repository Through CMDline
 Notes about how to efficientely update this repository from vscode using git package commands.
 
 ### 2021 Winner 
